@@ -1,0 +1,1 @@
+g++	main.cpp	reed-solomon.cpp	-std=c++11	-lntl	-o	main
